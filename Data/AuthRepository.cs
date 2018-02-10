@@ -35,6 +35,9 @@ namespace SM.API.Data
             user.Username = user.Username.ToLower();
             user.PasswordHash = passwordHash;
             user.PasswordSalt = passwordSalt;
+            user.Created = DateTime.UtcNow;
+            user.Edited = DateTime.UtcNow;
+            user.LastActive = DateTime.UtcNow;
 
             await _context.Users.AddAsync(user);
 
