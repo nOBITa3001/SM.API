@@ -47,6 +47,7 @@ namespace SM.API
             services.AddCors();
             services.AddAutoMapper();
             services.AddScoped<IAuthRepository, AuthRepository>();
+            services.AddScoped<ISMRepository, SMRepository>();
             var key = Encoding.ASCII.GetBytes(Configuration.GetSection("AppSettings:Token").Value);
             services
                 .AddAuthentication(JwtBearerDefaults.AuthenticationScheme)

@@ -9,7 +9,9 @@ namespace SM.API.Mappers
     {
         public AutoMapperProfiles()
         {
-            
+            CreateMap<User, UserForListDto>();
+
+            CreateMap<User, UserForDetailedDto>();
         }
     }
 }
