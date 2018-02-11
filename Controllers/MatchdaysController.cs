@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
@@ -24,14 +25,14 @@ namespace SM.API.Controllers
         {
             var matches = GetMatches();
 
-            var predictors = GetPredictors();
+            var orderedPredictors = GetOrderedPredictors();
 
             var matchday = new MatchdaysDto
             {
                 Id = 1,
                 Title = "EPL 2017-18: Matchday 27",
                 Matches = matches,
-                Predictors = predictors
+                Predictors = orderedPredictors
             };
 
             var matchdays = new List<MatchdaysDto>
@@ -75,7 +76,7 @@ namespace SM.API.Controllers
                     Id = 4,
                     Home = "Southampton",
                     Away = "Liverpool",
-                    Result = "-",
+                    Result = "0-2",
                     Date = new DateTime(2018, 2, 11)
                 },
                 new MatchDto
@@ -90,30 +91,30 @@ namespace SM.API.Controllers
         }
 
         private int predictorIdx = 0;
-        private IEnumerable<PredictorDto> GetPredictors()
+        private IEnumerable<PredictorDto> GetOrderedPredictors()
         {
-            return new List<PredictorDto>
+            var predictors = new List<PredictorDto>
             {
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Nut",
                     Predictions = GetPredictions("Nut"),
-                    TotalPoint = 2
+                    TotalPoint = 3
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Sun",
                     Predictions = GetPredictions("Sun"),
-                    TotalPoint = 2
+                    TotalPoint = 3
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Boss",
                     Predictions = GetPredictions("Boss"),
-                    TotalPoint = 1
+                    TotalPoint = 2
                 },
                 new PredictorDto
                 {
@@ -127,9 +128,14 @@ namespace SM.API.Controllers
                     Id = ++predictorIdx,
                     User = "Yong",
                     Predictions = GetPredictions("Yong"),
-                    TotalPoint = 1
+                    TotalPoint = 2
                 }
             };
+
+            return predictors
+                    .OrderByDescending(p => p.TotalPoint)
+                    .ThenBy(p => p.Predictions.Count())
+                    .ThenBy(p => p.User);
         }
 
         private int predictionIdx = 0;
@@ -166,7 +172,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "SOU",
                         AwayAbbreviation = "LIV",
                         Result = "0-3",
-                        Point = null
+                        Point = 1
                     }, new PredictionDto
                     {
                         Id = ++predictionIdx,
@@ -208,7 +214,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "SOU",
                         AwayAbbreviation = "LIV",
                         Result = "1-2",
-                        Point = null
+                        Point = 1
                     }, new PredictionDto
                     {
                         Id = ++predictionIdx,
@@ -250,7 +256,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "SOU",
                         AwayAbbreviation = "LIV",
                         Result = "1-3",
-                        Point = null
+                        Point = 1
                     }, new PredictionDto
                     {
                         Id = ++predictionIdx,
@@ -292,7 +298,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "SOU",
                         AwayAbbreviation = "LIV",
                         Result = "1-1",
-                        Point = null
+                        Point = 0
                     }, new PredictionDto
                     {
                         Id = ++predictionIdx,
@@ -334,7 +340,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "SOU",
                         AwayAbbreviation = "LIV",
                         Result = "1-3",
-                        Point = null
+                        Point = 1
                     }, new PredictionDto
                     {
                         Id = ++predictionIdx,
