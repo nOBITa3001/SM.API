@@ -84,7 +84,7 @@ namespace SM.API.Controllers
                     Id = 5,
                     Home = "Chelsea",
                     Away = "West Bromwich Albion",
-                    Result = "-",
+                    Result = "3-0",
                     Date = new DateTime(2018, 2, 12)
                 }
             };
@@ -100,35 +100,35 @@ namespace SM.API.Controllers
                     Id = ++predictorIdx,
                     User = "Nut",
                     Predictions = GetPredictions("Nut"),
-                    TotalPoint = 3
+                    TotalPoint = GetPredictions("Nut").Sum(p => p.Point).Value
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Sun",
                     Predictions = GetPredictions("Sun"),
-                    TotalPoint = 3
+                    TotalPoint = GetPredictions("Sun").Sum(p => p.Point).Value
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Boss",
                     Predictions = GetPredictions("Boss"),
-                    TotalPoint = 2
+                    TotalPoint = GetPredictions("Boss").Sum(p => p.Point).Value
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "No",
                     Predictions = GetPredictions("No"),
-                    TotalPoint = 1
+                    TotalPoint = GetPredictions("No").Sum(p => p.Point).Value
                 },
                 new PredictorDto
                 {
                     Id = ++predictorIdx,
                     User = "Yong",
                     Predictions = GetPredictions("Yong"),
-                    TotalPoint = 2
+                    TotalPoint = GetPredictions("Yong").Sum(p => p.Point).Value
                 }
             };
 
@@ -179,7 +179,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "CHE",
                         AwayAbbreviation = "WBA",
                         Result = "1-1",
-                        Point = null
+                        Point = 0
                     }
                 };
             }
@@ -221,7 +221,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "CHE",
                         AwayAbbreviation = "WBA",
                         Result = "2-0",
-                        Point = null
+                        Point = 1
                     }
                 };
             }
@@ -263,7 +263,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "CHE",
                         AwayAbbreviation = "WBA",
                         Result = "3-0",
-                        Point = null
+                        Point = 3
                     }
                 };
             }
@@ -305,7 +305,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "CHE",
                         AwayAbbreviation = "WBA",
                         Result = "2-0",
-                        Point = null
+                        Point = 1
                     }
                 };
             }
@@ -347,7 +347,7 @@ namespace SM.API.Controllers
                         HomeAbbreviation = "CHE",
                         AwayAbbreviation = "WBA",
                         Result = "1-0",
-                        Point = null
+                        Point = 1
                     }
                 };
             }

@@ -48,45 +48,45 @@ namespace SM.API.Controllers
                 {
                     User = "Nut",
                     TotalPoint = 3,
-                    TotalGame = 4,
+                    TotalGame = 5,
                     TotalCorrectScore = 0,
                     TotalCorrectResult = 3,
-                    TotalWrong = 1
+                    TotalWrong = 2
                 },
                 new RankDto
                 {
                     User = "Sun",
-                    TotalPoint = 3,
-                    TotalGame = 4,
+                    TotalPoint = 4,
+                    TotalGame = 5,
                     TotalCorrectScore = 0,
-                    TotalCorrectResult = 3,
+                    TotalCorrectResult = 4,
                     TotalWrong = 1
                 },
                 new RankDto
                 {
                     User = "Boss",
-                    TotalPoint = 2,
-                    TotalGame = 4,
-                    TotalCorrectScore = 0,
+                    TotalPoint = 5,
+                    TotalGame = 5,
+                    TotalCorrectScore = 1,
                     TotalCorrectResult = 2,
                     TotalWrong = 2
                 },
                 new RankDto
                 {
                     User = "Yong",
-                    TotalPoint = 2,
-                    TotalGame = 4,
+                    TotalPoint = 3,
+                    TotalGame = 5,
                     TotalCorrectScore = 0,
-                    TotalCorrectResult = 2,
+                    TotalCorrectResult = 3,
                     TotalWrong = 2
                 },
                 new RankDto
                 {
                     User = "No",
-                    TotalPoint = 1,
-                    TotalGame = 4,
+                    TotalPoint = 2,
+                    TotalGame = 5,
                     TotalCorrectScore = 0,
-                    TotalCorrectResult = 1,
+                    TotalCorrectResult = 2,
                     TotalWrong = 3
                 }
             };
