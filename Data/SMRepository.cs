@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using SM.API.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Linq;
 
 namespace SM.API.Data
 {
@@ -37,6 +38,17 @@ namespace SM.API.Data
         public async Task<bool> SaveAllAsync()
         {
             return await _context.SaveChangesAsync() > 0;
+        }
+
+        public async Task<IEnumerable<Matchday>> GetMatchdaysAsync()
+        {
+            return await _context.Matchdays
+                .Include(md => md.Season).ThenInclude(s => s.League)
+                .Include(md => md.Matches).ThenInclude(m => m.HomeTeam)
+                .Include(md => md.Matches).ThenInclude(m => m.AwayTeam)
+                .Include(md => md.Matches).ThenInclude(m => m.Predictions).ThenInclude(p => p.User)
+                .OrderByDescending(md => md.Id)
+                .ToListAsync();
         }
     }
 }

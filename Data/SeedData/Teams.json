@@ -1,113 +1,153 @@
 [
   {
+    "id": 1,
     "name": "Arsenal",
-    "abbreviation": "AFC",
+    "shortName": "Arsenal",
+    "abbreviation": "ARS",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
   },
   {
+    "id": 2,
     "name": "Leicester City",
+    "shortName": "Leicester",
     "abbreviation": "LEI",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/en/6/63/Leicester02.png"
   },
   {
+    "id": 3,
     "name": "Watford",
+    "shortName": "Watford",
     "abbreviation": "WAT",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e2/Watford.svg"
   },
   {
+    "id": 4,
     "name": "Liverpool",
+    "shortName": "Liverpool",
     "abbreviation": "LIV",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/de/0/0a/FC_Liverpool.svg"
   },
   {
+    "id": 5,
     "name": "Southampton",
+    "shortName": "Southampton",
     "abbreviation": "SOU",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/c/c9/FC_Southampton.svg"
   },
   {
+    "id": 6,
     "name": "Swansea City",
+    "shortName": "Swansea",
     "abbreviation": "SWA",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/a/ab/Swansea_City_Logo.svg"
   },
   {
+    "id": 7,
     "name": "West Bromwich Albion",
+    "shortName": "West Brom",
     "abbreviation": "WBA",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/8/8b/West_Bromwich_Albion.svg"
   },
   {
-    "name": "Bournemouth",
+    "id": 8,
+    "name": "AFC Bournemouth",
+    "shortName": "Bournemouth",
     "abbreviation": "BOU",
     "logoUrl":
       "https://upload.wikimedia.org/wikipedia/de/4/41/Afc_bournemouth.svg"
   },
   {
+    "id": 9,
     "name": "Everton",
+    "shortName": "Everton",
     "abbreviation": "EVE",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/de/f/f9/Everton_FC.svg"
   },
   {
+    "id": 10,
     "name": "Stoke City",
+    "shortName": "Stoke",
     "abbreviation": "STK",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/de/a/a3/Stoke_City.svg"
   },
   {
+    "id": 11,
     "name": "Crystal Palace",
+    "shortName": "Crystal Palace",
     "abbreviation": "CRY",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/b/bf/Crystal_Palace_F.C._logo_(2013).png"
   },
   {
+    "id": 12,
     "name": "Huddersfield Town",
-    "abbreviation": "HDD",
+    "shortName": "Huddersfield",
+    "abbreviation": "HUD",
     "logoUrl":
       "https://upload.wikimedia.org/wikipedia/en/5/5a/Huddersfield_Town_A.F.C._logo.svg"
   },
   {
+    "id": 13,
     "name": "Chelsea",
+    "shortName": "Chelsea",
     "abbreviation": "CHE",
     "logoUrl": "http://upload.wikimedia.org/wikipedia/de/5/5c/Chelsea_crest.svg"
   },
   {
+    "id": 14,
     "name": "Burnley",
+    "shortName": "Burnley",
     "abbreviation": "BUR",
     "logoUrl":
       "https://upload.wikimedia.org/wikipedia/en/0/02/Burnley_FC_badge.png"
   },
   {
+    "id": 15,
     "name": "Brighton & Hove Albion",
-    "abbreviation": "BRH",
+    "shortName": "Brighton",
+    "abbreviation": "BHA",
     "logoUrl":
       "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_&_Hove_Albion_logo.svg"
   },
   {
+    "id": 16,
     "name": "Manchester City",
+    "shortName": "Man City",
     "abbreviation": "MCI",
     "logoUrl":
       "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg"
   },
   {
+    "id": 17,
     "name": "Newcastle United",
+    "shortName": "Newcastle",
     "abbreviation": "NEW",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/5/56/Newcastle_United_Logo.svg"
   },
   {
+    "id": 18,
     "name": "Tottenham Hotspur",
+    "shortName": "Spurs",
     "abbreviation": "TOT",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/b/b4/Tottenham_Hotspur.svg"
   },
   {
+    "id": 19,
     "name": "Manchester United",
+    "shortName": "Man Utd",
     "abbreviation": "MUN",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/d/da/Manchester_United_FC.svg"
   },
   {
+    "id": 20,
     "name": "West Ham United",
+    "shortName": "West Ham",
     "abbreviation": "WHU",
     "logoUrl":
       "http://upload.wikimedia.org/wikipedia/de/e/e0/West_Ham_United_FC.svg"

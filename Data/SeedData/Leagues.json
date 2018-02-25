@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
-        "league": "Premier League"
+        "Title": "Premier League",
+        "abbreviation": "EPL"
     }
 ]
