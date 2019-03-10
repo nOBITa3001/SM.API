@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using SM.API.DTOs;
 using SM.API.Models;
 
 namespace SM.API.Data
@@ -12,5 +13,6 @@ namespace SM.API.Data
         Task<IEnumerable<User>> GetUsersAsync();
         Task<User> GetUserAsync(int id);
         Task<IEnumerable<Matchday>> GetMatchdaysAsync();
+        Task<IEnumerable<LeaderboardsDto>> GetLeaderboardsAsync();
     }
 }
