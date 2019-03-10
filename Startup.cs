@@ -99,13 +99,14 @@ namespace SM.API
             app.UseAuthentication();
             app.UseMvc();
 
+            // seeder.SeedUsers();
             // seeder.SeedTeams();
             // seeder.SeedLeagues();
             // seeder.SeedSeasons();
+
             // seeder.SeedMatchdays();
             // seeder.SeedMatches();
-            //seeder.SeedUsers();
-            //seeder.SeedPredictions();
+            // seeder.SeedPredictions();
         }
     }
 }
