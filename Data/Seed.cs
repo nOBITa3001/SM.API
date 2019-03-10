@@ -6,6 +6,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 using System;
+using System.Linq;
 
 namespace SM.API.Data
 {
@@ -117,21 +118,50 @@ namespace SM.API.Data
 
             var data = File.ReadAllText("Data/SeedData/Predictions.json");
             var entities = JsonConvert.DeserializeObject<IEnumerable<Prediction>>(data);
+
+            CalculatePredictionPoints(entities);
+
             _context.Predictions.AddRange(entities);
 
             _context.SaveChanges();
         }
 
-        // public void SeedCompetitions()
-        // {
-        //     _context.Competitions.RemoveRange(_context.Competitions);
-        //     _context.SaveChanges();
+        private void CalculatePredictionPoints(IEnumerable<Prediction> preditions)
+        {
+            var matchData = File.ReadAllText("Data/SeedData/Matches.json");
+            var matches = JsonConvert.DeserializeObject<IEnumerable<Match>>(matchData);
 
-        //     var competitionData = File.ReadAllText("Data/SeedData/Competitions.json");
-        //     var competitions = JsonConvert.DeserializeObject<IEnumerable<Competition>>(competitionData);
-        //     _context.Competitions.AddRange(competitions);
+            foreach (var predict in preditions.Where(entity => entity.Point == null))
+            {
+                var matchResult = matches.FirstOrDefault(match => match.Id == predict.MatchId)?.Result;
+                if (string.IsNullOrWhiteSpace(matchResult))
+                    continue;
 
-        //     _context.SaveChanges();
-        // }
+                if (matchResult == predict.Result)
+                    predict.Point = 3;
+                else
+                {
+                    var foo = matchResult.Split('-').Select(x => int.Parse(x)).ToArray();
+                    var bar = predict.Result.Split('-').Select(x => int.Parse(x)).ToArray();
+
+                    // if (foo[0] > foo[1] && bar[0] > bar[1]
+                    //     || foo[0] == foo[1] && bar[0] == bar[1]
+                    //     || foo[0] < foo[1] && bar[0] < bar[1])
+                    // {
+                    //     predict.Point = 1;
+                    // }
+                    // else
+                    // {
+                    //     predict.Point = 0;
+                    // }
+
+                    predict.Point = (foo[0] > foo[1] && bar[0] > bar[1]
+                                        || foo[0] == foo[1] && bar[0] == bar[1]
+                                        || foo[0] < foo[1] && bar[0] < bar[1]
+                                    ? 1
+                                    : 0);
+                }
+            }
+        }
     }
 }

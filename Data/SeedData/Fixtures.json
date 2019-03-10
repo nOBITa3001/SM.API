@@ -1,0 +1,4417 @@
+[
+  {
+    "date": "2017-08-11T18:45:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-08-12T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-08-12T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-08-12T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-12T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-08-12T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-12T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-12T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-13T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 1,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-19T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-08-19T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-19T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-19T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-08-19T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-19T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-19T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-20T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-21T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 2,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-08-26T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-26T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-08-26T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-26T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-26T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-26T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-27T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-08-27T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-27T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-08-27T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 3,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-09T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-09T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-09T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-09T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-09-09T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-09-09T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-09-09T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-09-10T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-10T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-11T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 4,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-15T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-16T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-16T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-16T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-16T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 6
+    }
+  },
+  {
+    "date": "2017-09-16T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-16T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-16T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-17T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-17T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 5,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-23T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-09-23T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-09-23T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-09-24T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-25T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 6,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-30T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-09-30T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-30T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-09-30T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-09-30T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-30T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-09-30T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-01T11:00:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-01T13:15:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-01T15:30:00Z",
+    "status": "FINISHED",
+    "matchday": 7,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-14T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-14T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-14T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-14T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-14T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 7,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-14T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-14T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-15T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-15T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-16T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 8,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-20T19:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-10-21T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-21T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-21T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-21T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-21T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-21T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-21T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-22T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 5
+    }
+  },
+  {
+    "date": "2017-10-22T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 9,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-28T11:30:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-28T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-10-28T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-28T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-28T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-28T14:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-10-28T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-29T14:30:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-10-29T17:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-10-30T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 10,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-04T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-04T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-04T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-04T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-04T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-04T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-11-05T13:00:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-05T15:15:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-05T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-05T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 11,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-18T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-18T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-11-18T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-19T17:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Watford",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-20T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 12,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-24T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-25T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-25T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-25T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-11-25T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-25T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-25T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-26T14:30:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-26T17:00:00Z",
+    "status": "FINISHED",
+    "matchday": 13,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-28T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-11-28T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-28T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-11-28T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-29T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-29T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-11-29T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-29T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Everton",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-11-29T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-11-29T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 14,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-02T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-02T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 5
+    }
+  },
+  {
+    "date": "2017-12-02T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-12-03T14:30:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-03T17:00:00Z",
+    "status": "FINISHED",
+    "matchday": 15,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-09T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-09T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-09T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-09T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-12-09T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-09T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-09T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-12-10T13:00:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-10T15:15:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-10T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 16,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-12-12T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 2.25,
+      "draw": 3.1,
+      "awayWin": 3.25
+    }
+  },
+  {
+    "date": "2017-12-12T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 9.25,
+      "draw": 5,
+      "awayWin": 1.32
+    }
+  },
+  {
+    "date": "2017-12-12T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.35,
+      "draw": 3.2,
+      "awayWin": 3.05
+    }
+  },
+  {
+    "date": "2017-12-13T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    },
+    "odds": {
+      "homeWin": 14,
+      "draw": 6.25,
+      "awayWin": 1.19
+    }
+  },
+  {
+    "date": "2017-12-13T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 4
+    },
+    "odds": {
+      "homeWin": 2.05,
+      "draw": 3.3,
+      "awayWin": 3.6
+    }
+  },
+  {
+    "date": "2017-12-13T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.4,
+      "draw": 3.2,
+      "awayWin": 2.95
+    }
+  },
+  {
+    "date": "2017-12-13T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.2,
+      "draw": 6,
+      "awayWin": 14
+    }
+  },
+  {
+    "date": "2017-12-13T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.24,
+      "draw": 5.5,
+      "awayWin": 12
+    }
+  },
+  {
+    "date": "2017-12-13T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.23,
+      "draw": 5.75,
+      "awayWin": 12
+    }
+  },
+  {
+    "date": "2017-12-13T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 17,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 5.25,
+      "draw": 3.9,
+      "awayWin": 1.6
+    }
+  },
+  {
+    "date": "2017-12-16T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 1.78,
+      "draw": 3.4,
+      "awayWin": 4.7
+    }
+  },
+  {
+    "date": "2017-12-16T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 4
+    },
+    "odds": {
+      "homeWin": 1.6,
+      "draw": 3.75,
+      "awayWin": 5.5
+    }
+  },
+  {
+    "date": "2017-12-16T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.24,
+      "draw": 5.5,
+      "awayWin": 12
+    }
+  },
+  {
+    "date": "2017-12-16T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 2.65,
+      "draw": 2.9,
+      "awayWin": 2.9
+    }
+  },
+  {
+    "date": "2017-12-16T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.32,
+      "draw": 4.9,
+      "awayWin": 9.75
+    }
+  },
+  {
+    "date": "2017-12-16T17:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 2.05,
+      "draw": 3.25,
+      "awayWin": 3.7
+    }
+  },
+  {
+    "date": "2017-12-16T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 1.45,
+      "draw": 4.25,
+      "awayWin": 7.25
+    }
+  },
+  {
+    "date": "2017-12-17T15:15:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-12-17T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2017-12-18T21:00:00Z",
+    "status": "FINISHED",
+    "matchday": 18,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-22T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 2.2,
+      "draw": 3.4,
+      "awayWin": 3.15
+    }
+  },
+  {
+    "date": "2017-12-23T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-23T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2017-12-23T18:30:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2017-12-23T20:45:00Z",
+    "status": "FINISHED",
+    "matchday": 19,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2017-12-26T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 1.42,
+      "draw": 4.3,
+      "awayWin": 7.75
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.35,
+      "draw": 3.25,
+      "awayWin": 2.95
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 1.16,
+      "draw": 6.75,
+      "awayWin": 16
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.75,
+      "draw": 3.1,
+      "awayWin": 2.6
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.15,
+      "draw": 7,
+      "awayWin": 17
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 2.05,
+      "draw": 3.2,
+      "awayWin": 3.7
+    }
+  },
+  {
+    "date": "2017-12-26T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 2.35,
+      "draw": 3.1,
+      "awayWin": 3.1
+    }
+  },
+  {
+    "date": "2017-12-26T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.14,
+      "draw": 7.25,
+      "awayWin": 19
+    }
+  },
+  {
+    "date": "2017-12-27T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 13,
+      "draw": 5.75,
+      "awayWin": 1.22
+    }
+  },
+  {
+    "date": "2017-12-28T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 20,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    },
+    "odds": {
+      "homeWin": 6,
+      "draw": 3.9,
+      "awayWin": 1.55
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.5,
+      "draw": 3.2,
+      "awayWin": 2.8
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 2.5,
+      "draw": 3,
+      "awayWin": 2.95
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 1.32,
+      "draw": 5.25,
+      "awayWin": 8.5
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 2,
+      "draw": 3.15,
+      "awayWin": 3.9
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.2,
+      "draw": 6,
+      "awayWin": 14
+    }
+  },
+  {
+    "date": "2017-12-30T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 1.72,
+      "draw": 3.5,
+      "awayWin": 5
+    }
+  },
+  {
+    "date": "2017-12-30T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.38,
+      "draw": 4.5,
+      "awayWin": 8.25
+    }
+  },
+  {
+    "date": "2017-12-31T12:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 11,
+      "draw": 6,
+      "awayWin": 1.23
+    }
+  },
+  {
+    "date": "2017-12-31T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 5.5,
+      "draw": 3.9,
+      "awayWin": 1.58
+    }
+  },
+  {
+    "date": "2018-01-01T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 2.35,
+      "draw": 2.95,
+      "awayWin": 3.3
+    }
+  },
+  {
+    "date": "2018-01-01T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    },
+    "odds": {
+      "homeWin": 1.45,
+      "draw": 4.1,
+      "awayWin": 7
+    }
+  },
+  {
+    "date": "2018-01-01T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 6.25,
+      "draw": 4,
+      "awayWin": 1.52
+    }
+  },
+  {
+    "date": "2018-01-01T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 2.2,
+      "draw": 3.25,
+      "awayWin": 3.3
+    }
+  },
+  {
+    "date": "2018-01-01T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 6.25,
+      "draw": 3.9,
+      "awayWin": 1.52
+    }
+  },
+  {
+    "date": "2018-01-02T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 1.9,
+      "draw": 3.3,
+      "awayWin": 4.2
+    }
+  },
+  {
+    "date": "2018-01-02T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 8.25,
+      "draw": 4.5,
+      "awayWin": 1.38
+    }
+  },
+  {
+    "date": "2018-01-02T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 1.95,
+      "draw": 3.3,
+      "awayWin": 4
+    }
+  },
+  {
+    "date": "2018-01-02T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    },
+    "odds": {
+      "homeWin": 1.1,
+      "draw": 8.75,
+      "awayWin": 20
+    }
+  },
+  {
+    "date": "2018-01-03T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 22,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    },
+    "odds": {
+      "homeWin": 2.35,
+      "draw": 3.2,
+      "awayWin": 3
+    }
+  },
+  {
+    "date": "2018-01-04T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 21,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2018-01-13T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-13T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-14T13:30:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-14T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2018-01-15T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 23,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-20T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 4
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Everton",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-20T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-20T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-21T16:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-22T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 24,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-30T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-30T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-30T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2018-01-31T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-31T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-31T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-01-31T19:45:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2018-01-31T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-31T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-01-31T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 25,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-03T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-03T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-03T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-03T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-03T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-03T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 3
+    }
+  },
+  {
+    "date": "2018-02-03T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-04T14:15:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-04T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2018-02-05T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 26,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-10T12:30:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-10T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": 2,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-10T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-10T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-10T15:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-10T17:30:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": 5,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-11T12:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": 4,
+      "goalsAwayTeam": 1
+    }
+  },
+  {
+    "date": "2018-02-11T14:15:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": 1,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-11T16:30:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": 0,
+      "goalsAwayTeam": 2
+    }
+  },
+  {
+    "date": "2018-02-12T20:00:00Z",
+    "status": "FINISHED",
+    "matchday": 27,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": 3,
+      "goalsAwayTeam": 0
+    }
+  },
+  {
+    "date": "2018-02-24T12:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-24T17:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-25T14:05:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-02-26T20:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-01T19:45:00Z",
+    "status": "SCHEDULED",
+    "matchday": 28,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T12:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Watford",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-03T17:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-04T13:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-04T16:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-05T20:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 29,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T12:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-10T17:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-11T13:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-11T16:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-12T20:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 30,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-16T20:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T12:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-17T17:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-18T13:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-18T16:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 31,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T11:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-03-31T16:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-01T12:30:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-01T15:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 32,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-07T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 33,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-14T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 34,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-21T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 35,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-04-28T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 36,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Bournemouth",
+    "awayTeamName": "Swansea City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Brighton & Hove Albion",
+    "awayTeamName": "Manchester United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Chelsea",
+    "awayTeamName": "Liverpool",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Everton",
+    "awayTeamName": "Southampton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Leicester City",
+    "awayTeamName": "West Ham United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Arsenal",
+    "awayTeamName": "Burnley",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "West Bromwich Albion",
+    "awayTeamName": "Tottenham Hotspur",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Watford",
+    "awayTeamName": "Newcastle United",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Stoke City",
+    "awayTeamName": "Crystal Palace",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-05T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 37,
+    "homeTeamName": "Manchester City",
+    "awayTeamName": "Huddersfield Town",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Huddersfield Town",
+    "awayTeamName": "Arsenal",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Liverpool",
+    "awayTeamName": "Brighton & Hove Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Manchester United",
+    "awayTeamName": "Watford",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Crystal Palace",
+    "awayTeamName": "West Bromwich Albion",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Newcastle United",
+    "awayTeamName": "Chelsea",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Swansea City",
+    "awayTeamName": "Stoke City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Tottenham Hotspur",
+    "awayTeamName": "Leicester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "West Ham United",
+    "awayTeamName": "Everton",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Burnley",
+    "awayTeamName": "Bournemouth",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  },
+  {
+    "date": "2018-05-13T14:00:00Z",
+    "status": "SCHEDULED",
+    "matchday": 38,
+    "homeTeamName": "Southampton",
+    "awayTeamName": "Manchester City",
+    "result": {
+      "goalsHomeTeam": null,
+      "goalsAwayTeam": null
+    }
+  }
+]
